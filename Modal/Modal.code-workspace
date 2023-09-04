@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../javascript-basic-projects-master/06-modal/setup"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "setup"
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../javascript-basic-projects-master/03-reviews/setup"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "setup"
+	}
+}

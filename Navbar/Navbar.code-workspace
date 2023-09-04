@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../javascript-basic-projects-master/04-navbar/setup"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "setup"
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../javascript-basic-projects-master/07-questions/setup"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "setup"
+	}
+}
